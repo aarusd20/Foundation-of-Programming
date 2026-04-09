@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
    int n, i, sign = 1;
     float x, term, sum = 0;
